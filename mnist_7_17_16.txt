@@ -1,0 +1,12 @@
+error=0.2257833 and alpha=3.4295005
+Boosting rounds    1, Test accuracy: 0.7804000
+error=0.5018049 and alpha=2.1900051
+Boosting rounds    2, Test accuracy: 0.7804000
+error=0.6172768 and alpha=1.7192192
+Boosting rounds    3, Test accuracy: 0.7961000
+error=0.8070500 and alpha=0.7662701
+Boosting rounds    4, Test accuracy: 0.7970000
+error=0.8014414 and alpha=0.8018970
+Boosting rounds    5, Test accuracy: 0.7974000
+error=0.6353493 and alpha=1.6419896
+Boosting rounds    6, Test accuracy: 0.8180000

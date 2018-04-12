@@ -1,0 +1,1000 @@
+error=0.1370167 and alpha=4.0375174
+Boosting rounds    1, Test accuracy: 0.8689000
+error=0.4094879 and alpha=2.5633075
+Boosting rounds    2, Test accuracy: 0.8689000
+error=0.5326359 and alpha=2.0664951
+Boosting rounds    3, Test accuracy: 0.8872000
+error=0.6026347 and alpha=1.7807692
+Boosting rounds    4, Test accuracy: 0.8957000
+error=0.5384312 and alpha=2.0431961
+Boosting rounds    5, Test accuracy: 0.8962000
+error=0.6047176 and alpha=1.7720633
+Boosting rounds    6, Test accuracy: 0.9001000
+error=0.5224304 and alpha=2.1074426
+Boosting rounds    7, Test accuracy: 0.9101000
+error=0.5702155 and alpha=1.9144939
+Boosting rounds    8, Test accuracy: 0.9088000
+error=0.4994327 and alpha=2.1994938
+Boosting rounds    9, Test accuracy: 0.9077000
+error=0.5141922 and alpha=2.1404407
+Boosting rounds   10, Test accuracy: 0.9083000
+error=0.5313670 and alpha=2.0715918
+Boosting rounds   11, Test accuracy: 0.9136000
+error=0.5356641 and alpha=2.0543255
+Boosting rounds   12, Test accuracy: 0.9147000
+error=0.5175076 and alpha=2.1271655
+Boosting rounds   13, Test accuracy: 0.9160000
+error=0.4973502 and alpha=2.2078239
+Boosting rounds   14, Test accuracy: 0.9151000
+error=0.6090656 and alpha=1.7538383
+Boosting rounds   15, Test accuracy: 0.9152000
+error=0.5667272 and alpha=1.9287142
+Boosting rounds   16, Test accuracy: 0.9203000
+error=0.5036298 and alpha=2.1827052
+Boosting rounds   17, Test accuracy: 0.9169000
+error=0.5126853 and alpha=2.1464726
+Boosting rounds   18, Test accuracy: 0.9219000
+error=0.5385086 and alpha=2.0428844
+Boosting rounds   19, Test accuracy: 0.9228000
+error=0.5624869 and alpha=1.9459636
+Boosting rounds   20, Test accuracy: 0.9229000
+error=0.5407732 and alpha=2.0337687
+Boosting rounds   21, Test accuracy: 0.9235000
+error=0.5158356 and alpha=2.1338609
+Boosting rounds   22, Test accuracy: 0.9254000
+error=0.5697884 and alpha=1.9162368
+Boosting rounds   23, Test accuracy: 0.9265000
+error=0.5580949 and alpha=1.9637906
+Boosting rounds   24, Test accuracy: 0.9255000
+error=0.5624342 and alpha=1.9461776
+Boosting rounds   25, Test accuracy: 0.9245000
+error=0.5240371 and alpha=2.1010020
+Boosting rounds   26, Test accuracy: 0.9251000
+error=0.5264835 and alpha=2.0911914
+Boosting rounds   27, Test accuracy: 0.9264000
+error=0.5143787 and alpha=2.1396939
+Boosting rounds   28, Test accuracy: 0.9283000
+error=0.5180081 and alpha=2.1251610
+Boosting rounds   29, Test accuracy: 0.9281000
+error=0.5038762 and alpha=2.1817193
+Boosting rounds   30, Test accuracy: 0.9287000
+error=0.5189318 and alpha=2.1214611
+Boosting rounds   31, Test accuracy: 0.9293000
+error=0.4992634 and alpha=2.2001709
+Boosting rounds   32, Test accuracy: 0.9298000
+error=0.5298201 and alpha=2.0778023
+Boosting rounds   33, Test accuracy: 0.9282000
+error=0.5202124 and alpha=2.1163309
+Boosting rounds   34, Test accuracy: 0.9301000
+error=0.5250103 and alpha=2.0970996
+Boosting rounds   35, Test accuracy: 0.9312000
+error=0.5451800 and alpha=2.0160103
+Boosting rounds   36, Test accuracy: 0.9315000
+error=0.5316730 and alpha=2.0703626
+Boosting rounds   37, Test accuracy: 0.9319000
+error=0.4996215 and alpha=2.1987385
+Boosting rounds   38, Test accuracy: 0.9314000
+error=0.5630851 and alpha=1.9435324
+Boosting rounds   39, Test accuracy: 0.9314000
+error=0.5432087 and alpha=2.0239577
+Boosting rounds   40, Test accuracy: 0.9332000
+error=0.4917193 and alpha=2.2303505
+Boosting rounds   41, Test accuracy: 0.9348000
+error=0.5125909 and alpha=2.1468503
+Boosting rounds   42, Test accuracy: 0.9369000
+error=0.5591386 and alpha=1.9595578
+Boosting rounds   43, Test accuracy: 0.9360000
+error=0.5197865 and alpha=2.1180371
+Boosting rounds   44, Test accuracy: 0.9369000
+error=0.5164765 and alpha=2.1312946
+Boosting rounds   45, Test accuracy: 0.9362000
+error=0.5205903 and alpha=2.1148169
+Boosting rounds   46, Test accuracy: 0.9376000
+error=0.5448699 and alpha=2.0172610
+Boosting rounds   47, Test accuracy: 0.9396000
+error=0.4762756 and alpha=2.2921936
+Boosting rounds   48, Test accuracy: 0.9394000
+error=0.5153059 and alpha=2.1359817
+Boosting rounds   49, Test accuracy: 0.9387000
+error=0.5164048 and alpha=2.1315816
+Boosting rounds   50, Test accuracy: 0.9388000
+error=0.5497092 and alpha=1.9977288
+Boosting rounds   51, Test accuracy: 0.9385000
+error=0.5337937 and alpha=2.0618435
+Boosting rounds   52, Test accuracy: 0.9398000
+error=0.5464093 and alpha=2.0110515
+Boosting rounds   53, Test accuracy: 0.9397000
+error=0.5098707 and alpha=2.1577368
+Boosting rounds   54, Test accuracy: 0.9381000
+error=0.5431738 and alpha=2.0240983
+Boosting rounds   55, Test accuracy: 0.9390000
+error=0.5452379 and alpha=2.0157767
+Boosting rounds   56, Test accuracy: 0.9384000
+error=0.5620225 and alpha=1.9478501
+Boosting rounds   57, Test accuracy: 0.9387000
+error=0.5139845 and alpha=2.1412721
+Boosting rounds   58, Test accuracy: 0.9390000
+error=0.5585834 and alpha=1.9618097
+Boosting rounds   59, Test accuracy: 0.9391000
+error=0.4706694 and alpha=2.3146817
+Boosting rounds   60, Test accuracy: 0.9394000
+error=0.5446888 and alpha=2.0179910
+Boosting rounds   61, Test accuracy: 0.9396000
+error=0.5357397 and alpha=2.0540216
+Boosting rounds   62, Test accuracy: 0.9409000
+error=0.5206065 and alpha=2.1147518
+Boosting rounds   63, Test accuracy: 0.9416000
+error=0.5177173 and alpha=2.1263259
+Boosting rounds   64, Test accuracy: 0.9409000
+error=0.4827322 and alpha=2.2663231
+Boosting rounds   65, Test accuracy: 0.9423000
+error=0.5320433 and alpha=2.0688753
+Boosting rounds   66, Test accuracy: 0.9423000
+error=0.5035757 and alpha=2.1829216
+Boosting rounds   67, Test accuracy: 0.9411000
+error=0.4766176 and alpha=2.2908225
+Boosting rounds   68, Test accuracy: 0.9419000
+error=0.5602239 and alpha=1.9551539
+Boosting rounds   69, Test accuracy: 0.9412000
+error=0.5616043 and alpha=1.9495488
+Boosting rounds   70, Test accuracy: 0.9422000
+error=0.5184947 and alpha=2.1232120
+Boosting rounds   71, Test accuracy: 0.9420000
+error=0.5144665 and alpha=2.1393426
+Boosting rounds   72, Test accuracy: 0.9423000
+error=0.5802054 and alpha=1.8736081
+Boosting rounds   73, Test accuracy: 0.9430000
+error=0.4955161 and alpha=2.2151605
+Boosting rounds   74, Test accuracy: 0.9428000
+error=0.5559186 and alpha=1.9726106
+Boosting rounds   75, Test accuracy: 0.9434000
+error=0.5186159 and alpha=2.1227267
+Boosting rounds   76, Test accuracy: 0.9428000
+error=0.4990843 and alpha=2.2008874
+Boosting rounds   77, Test accuracy: 0.9424000
+error=0.5374770 and alpha=2.0470350
+Boosting rounds   78, Test accuracy: 0.9427000
+error=0.5770183 and alpha=1.8866797
+Boosting rounds   79, Test accuracy: 0.9426000
+error=0.5138478 and alpha=2.1418191
+Boosting rounds   80, Test accuracy: 0.9416000
+error=0.5413800 and alpha=2.0313249
+Boosting rounds   81, Test accuracy: 0.9420000
+error=0.5426890 and alpha=2.0260519
+Boosting rounds   82, Test accuracy: 0.9418000
+error=0.5009352 and alpha=2.1934838
+Boosting rounds   83, Test accuracy: 0.9424000
+error=0.4828124 and alpha=2.2660022
+Boosting rounds   84, Test accuracy: 0.9427000
+error=0.5763842 and alpha=1.8892769
+Boosting rounds   85, Test accuracy: 0.9431000
+error=0.5062285 and alpha=2.1723094
+Boosting rounds   86, Test accuracy: 0.9428000
+error=0.5500970 and alpha=1.9961621
+Boosting rounds   87, Test accuracy: 0.9424000
+error=0.4985893 and alpha=2.2028676
+Boosting rounds   88, Test accuracy: 0.9422000
+error=0.5509326 and alpha=1.9927852
+Boosting rounds   89, Test accuracy: 0.9422000
+error=0.5280681 and alpha=2.0848341
+Boosting rounds   90, Test accuracy: 0.9429000
+error=0.5350500 and alpha=2.0567944
+Boosting rounds   91, Test accuracy: 0.9430000
+error=0.5529537 and alpha=1.9846126
+Boosting rounds   92, Test accuracy: 0.9422000
+error=0.5493837 and alpha=1.9990436
+Boosting rounds   93, Test accuracy: 0.9416000
+error=0.5290425 and alpha=2.0809238
+Boosting rounds   94, Test accuracy: 0.9418000
+error=0.5470043 and alpha=2.0086507
+Boosting rounds   95, Test accuracy: 0.9408000
+error=0.5177083 and alpha=2.1263618
+Boosting rounds   96, Test accuracy: 0.9422000
+error=0.5336602 and alpha=2.0623796
+Boosting rounds   97, Test accuracy: 0.9415000
+error=0.4735381 and alpha=2.3031710
+Boosting rounds   98, Test accuracy: 0.9419000
+error=0.5135026 and alpha=2.1432012
+Boosting rounds   99, Test accuracy: 0.9415000
+error=0.5312642 and alpha=2.0720043
+Boosting rounds  100, Test accuracy: 0.9418000
+error=0.5484989 and alpha=2.0026171
+Boosting rounds  101, Test accuracy: 0.9421000
+error=0.5023275 and alpha=2.1879146
+Boosting rounds  102, Test accuracy: 0.9423000
+error=0.5342910 and alpha=2.0598448
+Boosting rounds  103, Test accuracy: 0.9427000
+error=0.4721962 and alpha=2.3085548
+Boosting rounds  104, Test accuracy: 0.9430000
+error=0.5472713 and alpha=2.0075730
+Boosting rounds  105, Test accuracy: 0.9436000
+error=0.5713219 and alpha=1.9099781
+Boosting rounds  106, Test accuracy: 0.9433000
+error=0.5516000 and alpha=1.9900873
+Boosting rounds  107, Test accuracy: 0.9434000
+error=0.5147610 and alpha=2.1381633
+Boosting rounds  108, Test accuracy: 0.9434000
+error=0.5438882 and alpha=2.0212187
+Boosting rounds  109, Test accuracy: 0.9436000
+error=0.4804723 and alpha=2.2753753
+Boosting rounds  110, Test accuracy: 0.9430000
+error=0.5453665 and alpha=2.0152583
+Boosting rounds  111, Test accuracy: 0.9424000
+error=0.4994295 and alpha=2.1995064
+Boosting rounds  112, Test accuracy: 0.9432000
+error=0.5023974 and alpha=2.1876351
+Boosting rounds  113, Test accuracy: 0.9437000
+error=0.5563542 and alpha=1.9708458
+Boosting rounds  114, Test accuracy: 0.9449000
+error=0.5149991 and alpha=2.1372101
+Boosting rounds  115, Test accuracy: 0.9443000
+error=0.5550161 and alpha=1.9762657
+Boosting rounds  116, Test accuracy: 0.9447000
+error=0.5362545 and alpha=2.0519518
+Boosting rounds  117, Test accuracy: 0.9444000
+error=0.5662242 and alpha=1.9307622
+Boosting rounds  118, Test accuracy: 0.9443000
+error=0.4916763 and alpha=2.2305223
+Boosting rounds  119, Test accuracy: 0.9446000
+error=0.5118470 and alpha=2.1498278
+Boosting rounds  120, Test accuracy: 0.9437000
+error=0.5011566 and alpha=2.1925980
+Boosting rounds  121, Test accuracy: 0.9441000
+error=0.5014217 and alpha=2.1915378
+Boosting rounds  122, Test accuracy: 0.9444000
+error=0.5416434 and alpha=2.0302640
+Boosting rounds  123, Test accuracy: 0.9438000
+error=0.4698300 and alpha=2.3180513
+Boosting rounds  124, Test accuracy: 0.9436000
+error=0.5315104 and alpha=2.0710155
+Boosting rounds  125, Test accuracy: 0.9445000
+error=0.4866405 and alpha=2.2506753
+Boosting rounds  126, Test accuracy: 0.9448000
+error=0.5309580 and alpha=2.0732341
+Boosting rounds  127, Test accuracy: 0.9445000
+error=0.5208139 and alpha=2.1139207
+Boosting rounds  128, Test accuracy: 0.9450000
+error=0.5119514 and alpha=2.1494099
+Boosting rounds  129, Test accuracy: 0.9461000
+error=0.4977306 and alpha=2.2063024
+Boosting rounds  130, Test accuracy: 0.9454000
+error=0.5629794 and alpha=1.9439621
+Boosting rounds  131, Test accuracy: 0.9454000
+error=0.5488534 and alpha=2.0011854
+Boosting rounds  132, Test accuracy: 0.9455000
+error=0.5088649 and alpha=2.1617614
+Boosting rounds  133, Test accuracy: 0.9461000
+error=0.5443920 and alpha=2.0191877
+Boosting rounds  134, Test accuracy: 0.9457000
+error=0.4945801 and alpha=2.2189049
+Boosting rounds  135, Test accuracy: 0.9467000
+error=0.5359937 and alpha=2.0530002
+Boosting rounds  136, Test accuracy: 0.9458000
+error=0.5202891 and alpha=2.1160237
+Boosting rounds  137, Test accuracy: 0.9466000
+error=0.4893324 and alpha=2.2399013
+Boosting rounds  138, Test accuracy: 0.9464000
+error=0.5092591 and alpha=2.1601840
+Boosting rounds  139, Test accuracy: 0.9474000
+error=0.4778739 and alpha=2.2857866
+Boosting rounds  140, Test accuracy: 0.9467000
+error=0.5549457 and alpha=1.9765508
+Boosting rounds  141, Test accuracy: 0.9467000
+error=0.5069980 and alpha=2.1692308
+Boosting rounds  142, Test accuracy: 0.9463000
+error=0.5181981 and alpha=2.1244000
+Boosting rounds  143, Test accuracy: 0.9457000
+error=0.5133215 and alpha=2.1439260
+Boosting rounds  144, Test accuracy: 0.9462000
+error=0.4892937 and alpha=2.2400564
+Boosting rounds  145, Test accuracy: 0.9472000
+error=0.5347667 and alpha=2.0579330
+Boosting rounds  146, Test accuracy: 0.9464000
+error=0.4991815 and alpha=2.2004985
+Boosting rounds  147, Test accuracy: 0.9460000
+error=0.5321109 and alpha=2.0686038
+Boosting rounds  148, Test accuracy: 0.9463000
+error=0.4935117 and alpha=2.2231794
+Boosting rounds  149, Test accuracy: 0.9462000
+error=0.4828111 and alpha=2.2660074
+Boosting rounds  150, Test accuracy: 0.9466000
+error=0.5454319 and alpha=2.0149944
+Boosting rounds  151, Test accuracy: 0.9471000
+error=0.4889525 and alpha=2.2414218
+Boosting rounds  152, Test accuracy: 0.9474000
+error=0.5162755 and alpha=2.1320995
+Boosting rounds  153, Test accuracy: 0.9486000
+error=0.5211436 and alpha=2.1125998
+Boosting rounds  154, Test accuracy: 0.9484000
+error=0.5084042 and alpha=2.1636045
+Boosting rounds  155, Test accuracy: 0.9483000
+error=0.5293700 and alpha=2.0796092
+Boosting rounds  156, Test accuracy: 0.9482000
+error=0.5473978 and alpha=2.0070624
+Boosting rounds  157, Test accuracy: 0.9482000
+error=0.4971075 and alpha=2.2087947
+Boosting rounds  158, Test accuracy: 0.9479000
+error=0.4942272 and alpha=2.2203169
+Boosting rounds  159, Test accuracy: 0.9483000
+error=0.5903532 and alpha=1.8317987
+Boosting rounds  160, Test accuracy: 0.9483000
+error=0.5242844 and alpha=2.1000107
+Boosting rounds  161, Test accuracy: 0.9475000
+error=0.5423801 and alpha=2.0272964
+Boosting rounds  162, Test accuracy: 0.9472000
+error=0.5018072 and alpha=2.1899958
+Boosting rounds  163, Test accuracy: 0.9477000
+error=0.5568921 and alpha=1.9686665
+Boosting rounds  164, Test accuracy: 0.9470000
+error=0.5419862 and alpha=2.0288835
+Boosting rounds  165, Test accuracy: 0.9472000
+error=0.5360395 and alpha=2.0528160
+Boosting rounds  166, Test accuracy: 0.9467000
+error=0.5163089 and alpha=2.1319658
+Boosting rounds  167, Test accuracy: 0.9472000
+error=0.4965155 and alpha=2.2111629
+Boosting rounds  168, Test accuracy: 0.9477000
+error=0.5747337 and alpha=1.8960335
+Boosting rounds  169, Test accuracy: 0.9475000
+error=0.5144141 and alpha=2.1395521
+Boosting rounds  170, Test accuracy: 0.9468000
+error=0.5811492 and alpha=1.8697319
+Boosting rounds  171, Test accuracy: 0.9471000
+error=0.4810939 and alpha=2.2728852
+Boosting rounds  172, Test accuracy: 0.9474000
+error=0.5064592 and alpha=2.1713863
+Boosting rounds  173, Test accuracy: 0.9468000
+error=0.4717112 and alpha=2.3105006
+Boosting rounds  174, Test accuracy: 0.9471000
+error=0.5325370 and alpha=2.0668925
+Boosting rounds  175, Test accuracy: 0.9474000
+error=0.5035689 and alpha=2.1829488
+Boosting rounds  176, Test accuracy: 0.9474000
+error=0.5116596 and alpha=2.1505778
+Boosting rounds  177, Test accuracy: 0.9475000
+error=0.5468531 and alpha=2.0092609
+Boosting rounds  178, Test accuracy: 0.9476000
+error=0.5535077 and alpha=1.9823710
+Boosting rounds  179, Test accuracy: 0.9472000
+error=0.4980994 and alpha=2.2048271
+Boosting rounds  180, Test accuracy: 0.9472000
+error=0.5659485 and alpha=1.9318847
+Boosting rounds  181, Test accuracy: 0.9479000
+error=0.4806844 and alpha=2.2745255
+Boosting rounds  182, Test accuracy: 0.9483000
+error=0.4907637 and alpha=2.2341741
+Boosting rounds  183, Test accuracy: 0.9482000
+error=0.5007462 and alpha=2.1942398
+Boosting rounds  184, Test accuracy: 0.9483000
+error=0.4999676 and alpha=2.1973543
+Boosting rounds  185, Test accuracy: 0.9488000
+error=0.5449671 and alpha=2.0168690
+Boosting rounds  186, Test accuracy: 0.9483000
+error=0.5330870 and alpha=2.0646828
+Boosting rounds  187, Test accuracy: 0.9483000
+error=0.5278477 and alpha=2.0857185
+Boosting rounds  188, Test accuracy: 0.9489000
+error=0.4888194 and alpha=2.2419543
+Boosting rounds  189, Test accuracy: 0.9492000
+error=0.5392307 and alpha=2.0399786
+Boosting rounds  190, Test accuracy: 0.9485000
+error=0.5156587 and alpha=2.1345693
+Boosting rounds  191, Test accuracy: 0.9488000
+error=0.5517491 and alpha=1.9894841
+Boosting rounds  192, Test accuracy: 0.9491000
+error=0.5028561 and alpha=2.1858000
+Boosting rounds  193, Test accuracy: 0.9494000
+error=0.5294025 and alpha=2.0794789
+Boosting rounds  194, Test accuracy: 0.9490000
+error=0.4767702 and alpha=2.2902108
+Boosting rounds  195, Test accuracy: 0.9496000
+error=0.5125252 and alpha=2.1471132
+Boosting rounds  196, Test accuracy: 0.9491000
+error=0.5249137 and alpha=2.0974873
+Boosting rounds  197, Test accuracy: 0.9497000
+error=0.5329719 and alpha=2.0651452
+Boosting rounds  198, Test accuracy: 0.9494000
+error=0.5124278 and alpha=2.1475032
+Boosting rounds  199, Test accuracy: 0.9495000
+error=0.5506420 and alpha=1.9939596
+Boosting rounds  200, Test accuracy: 0.9494000
+error=0.4841875 and alpha=2.2604955
+Boosting rounds  201, Test accuracy: 0.9490000
+error=0.5064211 and alpha=2.1715386
+Boosting rounds  202, Test accuracy: 0.9492000
+error=0.5586923 and alpha=1.9613680
+Boosting rounds  203, Test accuracy: 0.9482000
+error=0.4988286 and alpha=2.2019101
+Boosting rounds  204, Test accuracy: 0.9494000
+error=0.5045861 and alpha=2.1788797
+Boosting rounds  205, Test accuracy: 0.9497000
+error=0.5616423 and alpha=1.9493948
+Boosting rounds  206, Test accuracy: 0.9492000
+error=0.5217052 and alpha=2.1103491
+Boosting rounds  207, Test accuracy: 0.9499000
+error=0.5201206 and alpha=2.1166985
+Boosting rounds  208, Test accuracy: 0.9494000
+error=0.5237810 and alpha=2.1020286
+Boosting rounds  209, Test accuracy: 0.9494000
+error=0.4865769 and alpha=2.2509300
+Boosting rounds  210, Test accuracy: 0.9494000
+error=0.5773381 and alpha=1.8853689
+Boosting rounds  211, Test accuracy: 0.9490000
+error=0.5421654 and alpha=2.0281613
+Boosting rounds  212, Test accuracy: 0.9495000
+error=0.5300891 and alpha=2.0767225
+Boosting rounds  213, Test accuracy: 0.9493000
+error=0.5035324 and alpha=2.1830946
+Boosting rounds  214, Test accuracy: 0.9491000
+error=0.5144299 and alpha=2.1394890
+Boosting rounds  215, Test accuracy: 0.9491000
+error=0.5409302 and alpha=2.0331368
+Boosting rounds  216, Test accuracy: 0.9485000
+error=0.5522526 and alpha=1.9874485
+Boosting rounds  217, Test accuracy: 0.9490000
+error=0.5310651 and alpha=2.0728038
+Boosting rounds  218, Test accuracy: 0.9486000
+error=0.5514995 and alpha=1.9904934
+Boosting rounds  219, Test accuracy: 0.9488000
+error=0.4975416 and alpha=2.2070582
+Boosting rounds  220, Test accuracy: 0.9485000
+error=0.5442781 and alpha=2.0196472
+Boosting rounds  221, Test accuracy: 0.9490000
+error=0.5299129 and alpha=2.0774301
+Boosting rounds  222, Test accuracy: 0.9492000
+error=0.5220879 and alpha=2.1088156
+Boosting rounds  223, Test accuracy: 0.9486000
+error=0.5195290 and alpha=2.1190688
+Boosting rounds  224, Test accuracy: 0.9491000
+error=0.5426171 and alpha=2.0263416
+Boosting rounds  225, Test accuracy: 0.9495000
+error=0.5530516 and alpha=1.9842164
+Boosting rounds  226, Test accuracy: 0.9497000
+error=0.5074435 and alpha=2.1674482
+Boosting rounds  227, Test accuracy: 0.9499000
+error=0.4953322 and alpha=2.2158962
+Boosting rounds  228, Test accuracy: 0.9498000
+error=0.5179946 and alpha=2.1252150
+Boosting rounds  229, Test accuracy: 0.9507000
+error=0.4987313 and alpha=2.2022993
+Boosting rounds  230, Test accuracy: 0.9504000
+error=0.5421266 and alpha=2.0283178
+Boosting rounds  231, Test accuracy: 0.9506000
+error=0.5206568 and alpha=2.1145504
+Boosting rounds  232, Test accuracy: 0.9508000
+error=0.5708370 and alpha=1.9119576
+Boosting rounds  233, Test accuracy: 0.9513000
+error=0.4895322 and alpha=2.2391017
+Boosting rounds  234, Test accuracy: 0.9503000
+error=0.5433744 and alpha=2.0232898
+Boosting rounds  235, Test accuracy: 0.9505000
+error=0.5784043 and alpha=1.8809981
+Boosting rounds  236, Test accuracy: 0.9498000
+error=0.4830153 and alpha=2.2651897
+Boosting rounds  237, Test accuracy: 0.9499000
+error=0.5141655 and alpha=2.1405473
+Boosting rounds  238, Test accuracy: 0.9499000
+error=0.4828608 and alpha=2.2658082
+Boosting rounds  239, Test accuracy: 0.9505000
+error=0.5182827 and alpha=2.1240611
+Boosting rounds  240, Test accuracy: 0.9508000
+error=0.5558799 and alpha=1.9727673
+Boosting rounds  241, Test accuracy: 0.9509000
+error=0.5065116 and alpha=2.1711768
+Boosting rounds  242, Test accuracy: 0.9511000
+error=0.5605090 and alpha=1.9539964
+Boosting rounds  243, Test accuracy: 0.9506000
+error=0.5005063 and alpha=2.1951995
+Boosting rounds  244, Test accuracy: 0.9512000
+error=0.5771427 and alpha=1.8861696
+Boosting rounds  245, Test accuracy: 0.9510000
+error=0.5533567 and alpha=1.9829821
+Boosting rounds  246, Test accuracy: 0.9512000
+error=0.4930168 and alpha=2.2251591
+Boosting rounds  247, Test accuracy: 0.9509000
+error=0.5004979 and alpha=2.1952329
+Boosting rounds  248, Test accuracy: 0.9507000
+error=0.4827540 and alpha=2.2662359
+Boosting rounds  249, Test accuracy: 0.9504000
+error=0.5586807 and alpha=1.9614149
+Boosting rounds  250, Test accuracy: 0.9503000
+error=0.5417668 and alpha=2.0297672
+Boosting rounds  251, Test accuracy: 0.9509000
+error=0.5514258 and alpha=1.9907914
+Boosting rounds  252, Test accuracy: 0.9503000
+error=0.5279340 and alpha=2.0853720
+Boosting rounds  253, Test accuracy: 0.9507000
+error=0.5004513 and alpha=2.1954194
+Boosting rounds  254, Test accuracy: 0.9504000
+error=0.5539184 and alpha=1.9807091
+Boosting rounds  255, Test accuracy: 0.9499000
+error=0.6072581 and alpha=1.7614232
+Boosting rounds  256, Test accuracy: 0.9495000
+error=0.5511855 and alpha=1.9917627
+Boosting rounds  257, Test accuracy: 0.9506000
+error=0.5455894 and alpha=2.0143591
+Boosting rounds  258, Test accuracy: 0.9504000
+error=0.5819348 and alpha=1.8665035
+Boosting rounds  259, Test accuracy: 0.9506000
+error=0.4800943 and alpha=2.2768894
+Boosting rounds  260, Test accuracy: 0.9503000
+error=0.5181520 and alpha=2.1245847
+Boosting rounds  261, Test accuracy: 0.9503000
+error=0.5962286 and alpha=1.8074493
+Boosting rounds  262, Test accuracy: 0.9499000
+error=0.5308666 and alpha=2.0736008
+Boosting rounds  263, Test accuracy: 0.9500000
+error=0.5468101 and alpha=2.0094343
+Boosting rounds  264, Test accuracy: 0.9494000
+error=0.5192012 and alpha=2.1203821
+Boosting rounds  265, Test accuracy: 0.9500000
+error=0.5222542 and alpha=2.1081488
+Boosting rounds  266, Test accuracy: 0.9503000
+error=0.4794254 and alpha=2.2795693
+Boosting rounds  267, Test accuracy: 0.9507000
+error=0.5569468 and alpha=1.9684448
+Boosting rounds  268, Test accuracy: 0.9512000
+error=0.5142010 and alpha=2.1404054
+Boosting rounds  269, Test accuracy: 0.9509000
+error=0.4635146 and alpha=2.3434260
+Boosting rounds  270, Test accuracy: 0.9503000
+error=0.5256078 and alpha=2.0947035
+Boosting rounds  271, Test accuracy: 0.9507000
+error=0.5037801 and alpha=2.1821040
+Boosting rounds  272, Test accuracy: 0.9507000
+error=0.5324666 and alpha=2.0671753
+Boosting rounds  273, Test accuracy: 0.9504000
+error=0.4821418 and alpha=2.2686876
+Boosting rounds  274, Test accuracy: 0.9506000
+error=0.4945333 and alpha=2.2190923
+Boosting rounds  275, Test accuracy: 0.9503000
+error=0.4750973 and alpha=2.2969177
+Boosting rounds  276, Test accuracy: 0.9511000
+error=0.5578475 and alpha=1.9647939
+Boosting rounds  277, Test accuracy: 0.9506000
+error=0.5221484 and alpha=2.1085728
+Boosting rounds  278, Test accuracy: 0.9505000
+error=0.5038022 and alpha=2.1820156
+Boosting rounds  279, Test accuracy: 0.9505000
+error=0.4827925 and alpha=2.2660819
+Boosting rounds  280, Test accuracy: 0.9505000
+error=0.5022756 and alpha=2.1881223
+Boosting rounds  281, Test accuracy: 0.9501000
+error=0.5434433 and alpha=2.0230122
+Boosting rounds  282, Test accuracy: 0.9508000
+error=0.5203645 and alpha=2.1157214
+Boosting rounds  283, Test accuracy: 0.9503000
+error=0.5414112 and alpha=2.0311993
+Boosting rounds  284, Test accuracy: 0.9504000
+error=0.5341753 and alpha=2.0603100
+Boosting rounds  285, Test accuracy: 0.9508000
+error=0.5298792 and alpha=2.0775653
+Boosting rounds  286, Test accuracy: 0.9502000
+error=0.5429594 and alpha=2.0249621
+Boosting rounds  287, Test accuracy: 0.9504000
+error=0.4897189 and alpha=2.2383550
+Boosting rounds  288, Test accuracy: 0.9499000
+error=0.5171173 and alpha=2.1287285
+Boosting rounds  289, Test accuracy: 0.9503000
+error=0.5030011 and alpha=2.1852200
+Boosting rounds  290, Test accuracy: 0.9498000
+error=0.5071734 and alpha=2.1685288
+Boosting rounds  291, Test accuracy: 0.9504000
+error=0.5076435 and alpha=2.1666480
+Boosting rounds  292, Test accuracy: 0.9498000
+error=0.4957911 and alpha=2.2140605
+Boosting rounds  293, Test accuracy: 0.9497000
+error=0.5509832 and alpha=1.9925805
+Boosting rounds  294, Test accuracy: 0.9497000
+error=0.5116686 and alpha=2.1505417
+Boosting rounds  295, Test accuracy: 0.9496000
+error=0.5477543 and alpha=2.0056234
+Boosting rounds  296, Test accuracy: 0.9494000
+error=0.5299328 and alpha=2.0773501
+Boosting rounds  297, Test accuracy: 0.9497000
+error=0.5386131 and alpha=2.0424642
+Boosting rounds  298, Test accuracy: 0.9500000
+error=0.4935651 and alpha=2.2229658
+Boosting rounds  299, Test accuracy: 0.9504000
+error=0.5157354 and alpha=2.1342620
+Boosting rounds  300, Test accuracy: 0.9500000
+error=0.4693647 and alpha=2.3199196
+Boosting rounds  301, Test accuracy: 0.9503000
+error=0.4671224 and alpha=2.3289251
+Boosting rounds  302, Test accuracy: 0.9501000
+error=0.5340030 and alpha=2.0610023
+Boosting rounds  303, Test accuracy: 0.9494000
+error=0.5397443 and alpha=2.0379113
+Boosting rounds  304, Test accuracy: 0.9493000
+error=0.5702642 and alpha=1.9142954
+Boosting rounds  305, Test accuracy: 0.9493000
+error=0.4823767 and alpha=2.2677468
+Boosting rounds  306, Test accuracy: 0.9491000
+error=0.5647936 and alpha=1.9365847
+Boosting rounds  307, Test accuracy: 0.9491000
+error=0.5239200 and alpha=2.1014713
+Boosting rounds  308, Test accuracy: 0.9491000
+error=0.5527856 and alpha=1.9852925
+Boosting rounds  309, Test accuracy: 0.9489000
+error=0.5924218 and alpha=1.8232386
+Boosting rounds  310, Test accuracy: 0.9493000
+error=0.5263772 and alpha=2.0916178
+Boosting rounds  311, Test accuracy: 0.9489000
+error=0.5346841 and alpha=2.0582651
+Boosting rounds  312, Test accuracy: 0.9488000
+error=0.5441148 and alpha=2.0203055
+Boosting rounds  313, Test accuracy: 0.9491000
+error=0.5431756 and alpha=2.0240908
+Boosting rounds  314, Test accuracy: 0.9492000
+error=0.5264262 and alpha=2.0914211
+Boosting rounds  315, Test accuracy: 0.9487000
+error=0.5498929 and alpha=1.9969864
+Boosting rounds  316, Test accuracy: 0.9487000
+error=0.4859208 and alpha=2.2535562
+Boosting rounds  317, Test accuracy: 0.9493000
+error=0.5082206 and alpha=2.1643392
+Boosting rounds  318, Test accuracy: 0.9490000
+error=0.5403533 and alpha=2.0354596
+Boosting rounds  319, Test accuracy: 0.9493000
+error=0.5550761 and alpha=1.9760226
+Boosting rounds  320, Test accuracy: 0.9495000
+error=0.5014771 and alpha=2.1913160
+Boosting rounds  321, Test accuracy: 0.9491000
+error=0.5259895 and alpha=2.0931726
+Boosting rounds  322, Test accuracy: 0.9491000
+error=0.5196805 and alpha=2.1184620
+Boosting rounds  323, Test accuracy: 0.9496000
+error=0.5362991 and alpha=2.0517722
+Boosting rounds  324, Test accuracy: 0.9492000
+error=0.5372948 and alpha=2.0477679
+Boosting rounds  325, Test accuracy: 0.9490000
+error=0.4914546 and alpha=2.2314093
+Boosting rounds  326, Test accuracy: 0.9494000
+error=0.5165394 and alpha=2.1310429
+Boosting rounds  327, Test accuracy: 0.9497000
+error=0.5356761 and alpha=2.0542772
+Boosting rounds  328, Test accuracy: 0.9495000
+error=0.5168667 and alpha=2.1297322
+Boosting rounds  329, Test accuracy: 0.9493000
+error=0.5366266 and alpha=2.0504554
+Boosting rounds  330, Test accuracy: 0.9494000
+error=0.5577176 and alpha=1.9653205
+Boosting rounds  331, Test accuracy: 0.9495000
+error=0.5162708 and alpha=2.1321182
+Boosting rounds  332, Test accuracy: 0.9490000
+error=0.4872800 and alpha=2.2481157
+Boosting rounds  333, Test accuracy: 0.9492000
+error=0.4962146 and alpha=2.2123663
+Boosting rounds  334, Test accuracy: 0.9501000
+error=0.5286797 and alpha=2.0823797
+Boosting rounds  335, Test accuracy: 0.9504000
+error=0.5476773 and alpha=2.0059342
+Boosting rounds  336, Test accuracy: 0.9500000
+error=0.5024873 and alpha=2.1872752
+Boosting rounds  337, Test accuracy: 0.9496000
+error=0.4924097 and alpha=2.2275880
+Boosting rounds  338, Test accuracy: 0.9501000
+error=0.5388544 and alpha=2.0414929
+Boosting rounds  339, Test accuracy: 0.9501000
+error=0.4743042 and alpha=2.3000983
+Boosting rounds  340, Test accuracy: 0.9496000
+error=0.6148830 and alpha=1.7293398
+Boosting rounds  341, Test accuracy: 0.9497000
+error=0.4708666 and alpha=2.3138904
+Boosting rounds  342, Test accuracy: 0.9501000
+error=0.5467133 and alpha=2.0098250
+Boosting rounds  343, Test accuracy: 0.9496000
+error=0.5329387 and alpha=2.0652788
+Boosting rounds  344, Test accuracy: 0.9502000
+error=0.5533141 and alpha=1.9831546
+Boosting rounds  345, Test accuracy: 0.9502000
+error=0.5193801 and alpha=2.1196653
+Boosting rounds  346, Test accuracy: 0.9499000
+error=0.4852293 and alpha=2.2563246
+Boosting rounds  347, Test accuracy: 0.9503000
+error=0.5762776 and alpha=1.8897134
+Boosting rounds  348, Test accuracy: 0.9499000
+error=0.5026148 and alpha=2.1867654
+Boosting rounds  349, Test accuracy: 0.9505000
+error=0.5145852 and alpha=2.1388672
+Boosting rounds  350, Test accuracy: 0.9507000
+error=0.5540259 and alpha=1.9802741
+Boosting rounds  351, Test accuracy: 0.9503000
+error=0.4897950 and alpha=2.2380504
+Boosting rounds  352, Test accuracy: 0.9503000
+error=0.4662955 and alpha=2.3322471
+Boosting rounds  353, Test accuracy: 0.9509000
+error=0.5066508 and alpha=2.1706198
+Boosting rounds  354, Test accuracy: 0.9507000
+error=0.5273341 and alpha=2.0877791
+Boosting rounds  355, Test accuracy: 0.9508000
+error=0.5679488 and alpha=1.9237373
+Boosting rounds  356, Test accuracy: 0.9507000
+error=0.5250856 and alpha=2.0967979
+Boosting rounds  357, Test accuracy: 0.9510000
+error=0.5165322 and alpha=2.1310718
+Boosting rounds  358, Test accuracy: 0.9511000
+error=0.5363203 and alpha=2.0516869
+Boosting rounds  359, Test accuracy: 0.9515000
+error=0.5299256 and alpha=2.0773788
+Boosting rounds  360, Test accuracy: 0.9517000
+error=0.5704926 and alpha=1.9133632
+Boosting rounds  361, Test accuracy: 0.9517000
+error=0.5131913 and alpha=2.1444472
+Boosting rounds  362, Test accuracy: 0.9513000
+error=0.4996203 and alpha=2.1987432
+Boosting rounds  363, Test accuracy: 0.9513000
+error=0.5108087 and alpha=2.1539832
+Boosting rounds  364, Test accuracy: 0.9510000
+error=0.4733346 and alpha=2.3039874
+Boosting rounds  365, Test accuracy: 0.9509000
+error=0.5246971 and alpha=2.0983556
+Boosting rounds  366, Test accuracy: 0.9509000
+error=0.5408988 and alpha=2.0332631
+Boosting rounds  367, Test accuracy: 0.9513000
+error=0.5249906 and alpha=2.0971788
+Boosting rounds  368, Test accuracy: 0.9515000
+error=0.5391483 and alpha=2.0403103
+Boosting rounds  369, Test accuracy: 0.9507000
+error=0.4752847 and alpha=2.2961664
+Boosting rounds  370, Test accuracy: 0.9511000
+error=0.5496835 and alpha=1.9978324
+Boosting rounds  371, Test accuracy: 0.9508000
+error=0.5242343 and alpha=2.1002114
+Boosting rounds  372, Test accuracy: 0.9509000
+error=0.5024921 and alpha=2.1872560
+Boosting rounds  373, Test accuracy: 0.9507000
+error=0.5427538 and alpha=2.0257906
+Boosting rounds  374, Test accuracy: 0.9507000
+error=0.5170600 and alpha=2.1289580
+Boosting rounds  375, Test accuracy: 0.9511000
+error=0.4997621 and alpha=2.1981760
+Boosting rounds  376, Test accuracy: 0.9509000
+error=0.5024883 and alpha=2.1872712
+Boosting rounds  377, Test accuracy: 0.9512000
+error=0.5020615 and alpha=2.1889787
+Boosting rounds  378, Test accuracy: 0.9510000
+error=0.5508668 and alpha=1.9930509
+Boosting rounds  379, Test accuracy: 0.9507000
+error=0.5576190 and alpha=1.9657203
+Boosting rounds  380, Test accuracy: 0.9502000
+error=0.5559647 and alpha=1.9724239
+Boosting rounds  381, Test accuracy: 0.9507000
+error=0.5263848 and alpha=2.0915871
+Boosting rounds  382, Test accuracy: 0.9502000
+error=0.5061742 and alpha=2.1725264
+Boosting rounds  383, Test accuracy: 0.9503000
+error=0.5474633 and alpha=2.0067980
+Boosting rounds  384, Test accuracy: 0.9503000
+error=0.5034496 and alpha=2.1834259
+Boosting rounds  385, Test accuracy: 0.9509000
+error=0.5046300 and alpha=2.1787042
+Boosting rounds  386, Test accuracy: 0.9511000
+error=0.5203867 and alpha=2.1156324
+Boosting rounds  387, Test accuracy: 0.9509000
+error=0.5612233 and alpha=1.9510965
+Boosting rounds  388, Test accuracy: 0.9508000
+error=0.5047395 and alpha=2.1782659
+Boosting rounds  389, Test accuracy: 0.9510000
+error=0.5609328 and alpha=1.9522758
+Boosting rounds  390, Test accuracy: 0.9505000
+error=0.5379987 and alpha=2.0449360
+Boosting rounds  391, Test accuracy: 0.9507000
+error=0.4954955 and alpha=2.2152432
+Boosting rounds  392, Test accuracy: 0.9507000
+error=0.5231676 and alpha=2.1044876
+Boosting rounds  393, Test accuracy: 0.9512000
+error=0.5248494 and alpha=2.0977451
+Boosting rounds  394, Test accuracy: 0.9508000
+error=0.4878567 and alpha=2.2458074
+Boosting rounds  395, Test accuracy: 0.9505000
+error=0.5359802 and alpha=2.0530544
+Boosting rounds  396, Test accuracy: 0.9502000
+error=0.5709541 and alpha=1.9114799
+Boosting rounds  397, Test accuracy: 0.9505000
+error=0.5392347 and alpha=2.0399627
+Boosting rounds  398, Test accuracy: 0.9503000
+error=0.5510985 and alpha=1.9921146
+Boosting rounds  399, Test accuracy: 0.9511000
+error=0.4986630 and alpha=2.2025727
+Boosting rounds  400, Test accuracy: 0.9511000
+error=0.5506116 and alpha=1.9940825
+Boosting rounds  401, Test accuracy: 0.9514000
+error=0.4939940 and alpha=2.2212498
+Boosting rounds  402, Test accuracy: 0.9517000
+error=0.4801239 and alpha=2.2767707
+Boosting rounds  403, Test accuracy: 0.9517000
+error=0.4926942 and alpha=2.2264497
+Boosting rounds  404, Test accuracy: 0.9512000
+error=0.5736109 and alpha=1.9006256
+Boosting rounds  405, Test accuracy: 0.9510000
+error=0.5390749 and alpha=2.0406057
+Boosting rounds  406, Test accuracy: 0.9513000
+error=0.4984206 and alpha=2.2035420
+Boosting rounds  407, Test accuracy: 0.9510000
+error=0.5577893 and alpha=1.9650299
+Boosting rounds  408, Test accuracy: 0.9513000
+error=0.5179188 and alpha=2.1255189
+Boosting rounds  409, Test accuracy: 0.9514000
+error=0.5333126 and alpha=2.0637764
+Boosting rounds  410, Test accuracy: 0.9515000
+error=0.5036425 and alpha=2.1826544
+Boosting rounds  411, Test accuracy: 0.9513000
+error=0.5426463 and alpha=2.0262240
+Boosting rounds  412, Test accuracy: 0.9512000
+error=0.4868961 and alpha=2.2496521
+Boosting rounds  413, Test accuracy: 0.9508000
+error=0.4949723 and alpha=2.2173360
+Boosting rounds  414, Test accuracy: 0.9509000
+error=0.5771866 and alpha=1.8859897
+Boosting rounds  415, Test accuracy: 0.9512000
+error=0.5281987 and alpha=2.0843100
+Boosting rounds  416, Test accuracy: 0.9507000
+error=0.5139783 and alpha=2.1412967
+Boosting rounds  417, Test accuracy: 0.9510000
+error=0.5399711 and alpha=2.0369984
+Boosting rounds  418, Test accuracy: 0.9505000
+error=0.4846357 and alpha=2.2587010
+Boosting rounds  419, Test accuracy: 0.9506000
+error=0.5315231 and alpha=2.0709649
+Boosting rounds  420, Test accuracy: 0.9508000
+error=0.5268505 and alpha=2.0897192
+Boosting rounds  421, Test accuracy: 0.9510000
+error=0.5039028 and alpha=2.1816129
+Boosting rounds  422, Test accuracy: 0.9511000
+error=0.5025523 and alpha=2.1870151
+Boosting rounds  423, Test accuracy: 0.9512000
+error=0.4779379 and alpha=2.2855302
+Boosting rounds  424, Test accuracy: 0.9513000
+error=0.5874515 and alpha=1.8437845
+Boosting rounds  425, Test accuracy: 0.9512000
+error=0.5269793 and alpha=2.0892026
+Boosting rounds  426, Test accuracy: 0.9513000
+error=0.5249890 and alpha=2.0971851
+Boosting rounds  427, Test accuracy: 0.9513000
+error=0.5391768 and alpha=2.0401955
+Boosting rounds  428, Test accuracy: 0.9512000
+error=0.5074939 and alpha=2.1672468
+Boosting rounds  429, Test accuracy: 0.9514000
+error=0.5329571 and alpha=2.0652046
+Boosting rounds  430, Test accuracy: 0.9512000
+error=0.4896633 and alpha=2.2385773
+Boosting rounds  431, Test accuracy: 0.9512000
+error=0.5323281 and alpha=2.0677314
+Boosting rounds  432, Test accuracy: 0.9512000
+error=0.5460076 and alpha=2.0126721
+Boosting rounds  433, Test accuracy: 0.9513000
+error=0.5646644 and alpha=1.9371104
+Boosting rounds  434, Test accuracy: 0.9510000
+error=0.5452072 and alpha=2.0159007
+Boosting rounds  435, Test accuracy: 0.9512000
+error=0.4674777 and alpha=2.3274976
+Boosting rounds  436, Test accuracy: 0.9515000
+error=0.5122791 and alpha=2.1480982
+Boosting rounds  437, Test accuracy: 0.9513000
+error=0.5003301 and alpha=2.1959041
+Boosting rounds  438, Test accuracy: 0.9514000
+error=0.5523952 and alpha=1.9868716
+Boosting rounds  439, Test accuracy: 0.9516000
+error=0.4803622 and alpha=2.2758161
+Boosting rounds  440, Test accuracy: 0.9514000
+error=0.5243672 and alpha=2.0996786
+Boosting rounds  441, Test accuracy: 0.9511000
+error=0.5233197 and alpha=2.1038780
+Boosting rounds  442, Test accuracy: 0.9512000
+error=0.4892301 and alpha=2.2403108
+Boosting rounds  443, Test accuracy: 0.9512000
+error=0.5457239 and alpha=2.0138165
+Boosting rounds  444, Test accuracy: 0.9511000
+error=0.5276240 and alpha=2.0866159
+Boosting rounds  445, Test accuracy: 0.9512000
+error=0.5516904 and alpha=1.9897218
+Boosting rounds  446, Test accuracy: 0.9511000
+error=0.5278482 and alpha=2.0857166
+Boosting rounds  447, Test accuracy: 0.9512000
+error=0.5093155 and alpha=2.1599581
+Boosting rounds  448, Test accuracy: 0.9511000
+error=0.5171572 and alpha=2.1285687
+Boosting rounds  449, Test accuracy: 0.9515000
+error=0.5128761 and alpha=2.1457087
+Boosting rounds  450, Test accuracy: 0.9511000
+error=0.5267445 and alpha=2.0901442
+Boosting rounds  451, Test accuracy: 0.9515000
+error=0.4999388 and alpha=2.1974695
+Boosting rounds  452, Test accuracy: 0.9515000
+error=0.5142654 and alpha=2.1401474
+Boosting rounds  453, Test accuracy: 0.9517000
+error=0.5486641 and alpha=2.0019501
+Boosting rounds  454, Test accuracy: 0.9514000
+error=0.5709171 and alpha=1.9116308
+Boosting rounds  455, Test accuracy: 0.9520000
+error=0.5065800 and alpha=2.1709031
+Boosting rounds  456, Test accuracy: 0.9521000
+error=0.5154576 and alpha=2.1353745
+Boosting rounds  457, Test accuracy: 0.9521000
+error=0.5196734 and alpha=2.1184905
+Boosting rounds  458, Test accuracy: 0.9516000
+error=0.5322347 and alpha=2.0681069
+Boosting rounds  459, Test accuracy: 0.9516000
+error=0.5095386 and alpha=2.1590657
+Boosting rounds  460, Test accuracy: 0.9517000
+error=0.5501918 and alpha=1.9957790
+Boosting rounds  461, Test accuracy: 0.9517000
+error=0.5065820 and alpha=2.1708949
+Boosting rounds  462, Test accuracy: 0.9519000
+error=0.5388908 and alpha=2.0413465
+Boosting rounds  463, Test accuracy: 0.9517000
+error=0.5353840 and alpha=2.0554516
+Boosting rounds  464, Test accuracy: 0.9518000
+error=0.5408366 and alpha=2.0335134
+Boosting rounds  465, Test accuracy: 0.9516000
+error=0.5263972 and alpha=2.0915373
+Boosting rounds  466, Test accuracy: 0.9517000
+error=0.5201260 and alpha=2.1166769
+Boosting rounds  467, Test accuracy: 0.9513000
+error=0.5348195 and alpha=2.0577206
+Boosting rounds  468, Test accuracy: 0.9518000
+error=0.5359489 and alpha=2.0531804
+Boosting rounds  469, Test accuracy: 0.9520000
+error=0.5814866 and alpha=1.8683457
+Boosting rounds  470, Test accuracy: 0.9519000
+error=0.5122387 and alpha=2.1482598
+Boosting rounds  471, Test accuracy: 0.9519000
+error=0.4574486 and alpha=2.3678427
+Boosting rounds  472, Test accuracy: 0.9520000
+error=0.5038360 and alpha=2.1818804
+Boosting rounds  473, Test accuracy: 0.9521000
+error=0.5037362 and alpha=2.1822793
+Boosting rounds  474, Test accuracy: 0.9522000
+error=0.5075907 and alpha=2.1668594
+Boosting rounds  475, Test accuracy: 0.9520000
+error=0.5301536 and alpha=2.0764637
+Boosting rounds  476, Test accuracy: 0.9516000
+error=0.4709259 and alpha=2.3136522
+Boosting rounds  477, Test accuracy: 0.9521000
+error=0.5220948 and alpha=2.1087879
+Boosting rounds  478, Test accuracy: 0.9523000
+error=0.5409967 and alpha=2.0328689
+Boosting rounds  479, Test accuracy: 0.9520000
+error=0.5557314 and alpha=1.9733690
+Boosting rounds  480, Test accuracy: 0.9520000
+error=0.5193044 and alpha=2.1199685
+Boosting rounds  481, Test accuracy: 0.9517000
+error=0.5305069 and alpha=2.0750452
+Boosting rounds  482, Test accuracy: 0.9520000
+error=0.5292946 and alpha=2.0799119
+Boosting rounds  483, Test accuracy: 0.9520000
+error=0.5395564 and alpha=2.0386675
+Boosting rounds  484, Test accuracy: 0.9524000
+error=0.5220651 and alpha=2.1089068
+Boosting rounds  485, Test accuracy: 0.9525000
+error=0.4803846 and alpha=2.2757263
+Boosting rounds  486, Test accuracy: 0.9522000
+error=0.5081002 and alpha=2.1648209
+Boosting rounds  487, Test accuracy: 0.9521000
+error=0.4948665 and alpha=2.2177594
+Boosting rounds  488, Test accuracy: 0.9522000
+error=0.5191946 and alpha=2.1204084
+Boosting rounds  489, Test accuracy: 0.9524000
+error=0.5372016 and alpha=2.0481425
+Boosting rounds  490, Test accuracy: 0.9527000
+error=0.5058368 and alpha=2.1738762
+Boosting rounds  491, Test accuracy: 0.9526000
+error=0.5480335 and alpha=2.0044961
+Boosting rounds  492, Test accuracy: 0.9527000
+error=0.5428866 and alpha=2.0252555
+Boosting rounds  493, Test accuracy: 0.9526000
+error=0.5321860 and alpha=2.0683022
+Boosting rounds  494, Test accuracy: 0.9528000
+error=0.5260921 and alpha=2.0927613
+Boosting rounds  495, Test accuracy: 0.9523000
+error=0.5232870 and alpha=2.1040090
+Boosting rounds  496, Test accuracy: 0.9524000
+error=0.5513386 and alpha=1.9911438
+Boosting rounds  497, Test accuracy: 0.9526000
+error=0.4998047 and alpha=2.1980058
+Boosting rounds  498, Test accuracy: 0.9524000
+error=0.5604459 and alpha=1.9542526
+Boosting rounds  499, Test accuracy: 0.9528000
+error=0.5099838 and alpha=2.1572841
+Boosting rounds  500, Test accuracy: 0.9525000

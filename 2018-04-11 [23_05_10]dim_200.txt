@@ -1,0 +1,27 @@
+error=0.9007000 and alpha=-0.0078021
+Boosting rounds    1, Test accuracy: 0.0999600
+error=0.8956761 and alpha=0.0471462
+Boosting rounds    2, Test accuracy: 0.1036600
+error=0.9023704 and alpha=-0.0266196
+Boosting rounds    3, Test accuracy: 0.1036600
+error=0.8972071 and alpha=0.0306538
+Boosting rounds    4, Test accuracy: 0.1039400
+error=0.8994471 and alpha=0.0061288
+Boosting rounds    5, Test accuracy: 0.1039600
+error=0.8943861 and alpha=0.0608771
+Boosting rounds    6, Test accuracy: 0.1109400
+error=0.8979808 and alpha=0.0222370
+Boosting rounds    7, Test accuracy: 0.1098600
+error=0.9065772 and alpha=-0.0753164
+Boosting rounds    8, Test accuracy: 0.1099600
+error=0.8950779 and alpha=0.0535321
+Boosting rounds    9, Test accuracy: 0.1123000
+error=0.8996033 and alpha=0.0044004
+Boosting rounds   10, Test accuracy: 0.1123600
+error=0.8905429 and alpha=0.1009260
+Boosting rounds   11, Test accuracy: 0.1162400
+error=0.9114496 and alpha=-0.1342396
+Boosting rounds   12, Test accuracy: 0.1191600
+error=0.8969553 and alpha=0.0333818
+Boosting rounds   13, Test accuracy: 0.1197000
+error=0.9049886 and alpha=-0.0567006

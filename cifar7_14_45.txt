@@ -1,0 +1,2 @@
+error=0.6054600 and alpha=1.7689566
+Boosting rounds    1, Test accuracy: 0.3900000
